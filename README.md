@@ -9,7 +9,7 @@
 
 
 ### 🌼 A bit about me
-- Born in February, 2001
+- Have in February, 2001
 - Currently graduating in Information Systems at Universidade de Pernambuco
 - Love sci-fiction, suspense and psychological horror films
 - Indie and rock music fan
