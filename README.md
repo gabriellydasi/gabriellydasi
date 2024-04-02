@@ -9,7 +9,7 @@
 
 
 ### 🌼 A bit about me
-- Have born in February, 2001
+- Was born in February, 2001
 - Currently graduating in Information Systems at Universidade de Pernambuco
 - Looking for my first opportunity to work as a web developer
 - Love sci-fiction, suspense and psychological horror films
