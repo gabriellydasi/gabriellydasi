@@ -17,7 +17,7 @@
 - Evangelion is my favourite anime
 
 ### 💻 Programming 
-I'm currently learning
+Learning ⏳
 <div>
   <div style="display: incline_block">
     <img align="center" alt="Gab" height="30" width"40" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -25,8 +25,8 @@ I'm currently learning
     <img align="center" alt="Gab" height="30" width"40" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 <br>
-  
-I've learned
+ 
+Learned ✅
 <div>
   <div style="display: incline_block">
     <img align="center" alt="Gab-Csharp" height="30" width"40" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
