@@ -1,4 +1,4 @@
- # <p align="center">Hello, there! 👾 I'm Gabrielly</p>
+ # <p align="center">Hello there! 👾 I'm Gabrielly</p>
 
 <br>
 <center>
