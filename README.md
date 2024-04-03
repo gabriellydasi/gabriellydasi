@@ -10,7 +10,7 @@
 
 ### 🌼 A bit about me
 - Born in February 2001
-- Majoring in Information Systems at the University of Pernambuco
+- Majoring in Information Systems at University of Pernambuco
 - Studied Chemistry briefly, but found my true passion in technology
 - Enhancing proficiency in new languages and technologies to secure an entry-level position as a web developer
 
