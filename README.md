@@ -9,9 +9,10 @@
 
 
 ### 🌼 A bit about me
-- Was born in February, 2001
-- Currently graduating in Information Systems at Universidade de Pernambuco
-- Looking for my first opportunity to work as a web developer
+- Born in February 2001
+- Majoring in Information Systems at the University of Pernambuco
+- Studied Chemistry briefly, but found my true passion in technology
+- Enhancing proficiency in new languages and technologies to secure an entry-level position as a web developer
 
 ### 🧩 Personal Interests
 - Sci-fiction, romance, period dramas, suspense and psychological horror films
