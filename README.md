@@ -12,10 +12,12 @@
 - Was born in February, 2001
 - Currently graduating in Information Systems at Universidade de Pernambuco
 - Looking for my first opportunity to work as a web developer
-- Love sci-fiction, suspense and psychological horror films
-- Indie and rock music fan
-- Really into RPG games
-- Evangelion is my favourite anime
+
+### 🧩 Personal Interests
+- Sci-fiction, romance, period dramas, suspense and psychological horror films
+- New wave, gothic, punk, post-punk, indie, metal, jazz, alternative, oldies, country
+- Sudoku and RPG games
+- Anime
 
 ### 💻 Programming 
 Learning ⏳
