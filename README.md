@@ -14,12 +14,6 @@
 - Majoring in Information Systems at University of Pernambuco
 - Enhancing proficiency in new languages and technologies to secure an entry-level position as a web developer
 
-### 🧩 Personal Interests
-- Sci-fiction, romance, period dramas, suspense and psychological horror films
-- New wave, gothic, punk, post-punk, indie, metal, jazz, alternative, oldies and country music
-- Sudoku and RPG games
-- Anime
-
 ### 💻 Programming 
 Learning ⏳
 <div>
@@ -34,7 +28,6 @@ Learned ✅
 <div>
   <div style="display: incline_block">
     <img align="center" alt="Gab-Csharp" height="30" width"40" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-    <img align="center" alt="Gab" height="30" width"40" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 </div>
           
           
