@@ -15,7 +15,7 @@
 
 ### 🧩 Personal Interests
 - Sci-fiction, romance, period dramas, suspense and psychological horror films
-- New wave, gothic, punk, post-punk, indie, metal, jazz, alternative, oldies, country
+- New wave, gothic, punk, post-punk, indie, metal, jazz, alternative, oldies and country music
 - Sudoku and RPG games
 - Anime
 
