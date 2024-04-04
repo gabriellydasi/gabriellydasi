@@ -1,12 +1,13 @@
  # <p align="center">Hello there! 👾 I'm Gabrielly</p>
 
 <br>
-<center>
-  <div>
-  <img height="600cm" src="https://i.pinimg.com/originals/16/89/5b/16895b231b6da505e2e4acef02a3c1fe.gif"/>
-  </div>
-</center>
-
+<div align="center">
+<img height="320em" src="https://i.pinimg.com/originals/16/89/5b/16895b231b6da505e2e4acef02a3c1fe.gif"/>
+  
+   <!-- <img height="350em" src="./.github/assets/cover_.png"/> -->
+  <!-- <img height="380em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/> -->
+  
+</div>
 
 ### 🌼 A bit about me
 - Born in February 2001
