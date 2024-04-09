@@ -23,9 +23,6 @@ Learned ✅
 </div>
           
 ## 📊 &nbsp;Stats
-
-<h3 align="left">GitHub Stats</h3>
-
 <div align="center">
   <a href="https://github.com/gabriellydasi">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabriellydasi&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
