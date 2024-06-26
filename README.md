@@ -22,7 +22,8 @@ Learning ⏳
 Learned ✅
 <div>
   <div style="display: incline_block">
-    <img align="center" alt="Gab-Csharp" height="30" width"40" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+    <img align="center" alt="C Programming Language" height="30" width"40" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+    <img align="center" alt="Python Programming Language" height="30" width"40" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white">	  
 </div>
           
 ## 📊 &nbsp;Stats
