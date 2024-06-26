@@ -6,6 +6,8 @@
 - Majoring in Information Systems at University of Pernambuco
 - Enhancing proficiency in new languages and technologies to secure an entry-level position as a back-end developer
 
+Follow me on: <a href="https://judge.beecrowd.com/pt/profile/996517" target = "_blank">Beecrowd</a> 🐝💻
+
 ### 💻 Programming 
 Learning ⏳
 <div>
