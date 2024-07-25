@@ -20,7 +20,6 @@
 
 ### Enthusiastic about
 [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
 ## 
 
