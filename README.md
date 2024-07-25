@@ -2,7 +2,7 @@
  
 ### A bit about me 🌼
 - Born in February 2001
-- Studied Chemistry briefly, but found my true passion in technology
+- Studied Chemistry briefly at Federal University of Pernambuco, but found my true passion in technology
 - Majoring in Information Systems at University of Pernambuco
 - I have fun studying topics related to exact sciences
 - Love entertainment that involves themes like suspense, science fiction and period
