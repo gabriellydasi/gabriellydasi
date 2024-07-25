@@ -4,7 +4,8 @@
 - Born in February 2001
 - Studied Chemistry briefly at Federal University of Pernambuco, but found my true passion in technology
 - Majoring in Information Systems at University of Pernambuco
-- I have fun studying topics related to exact sciences
+- Have fun studying topics related to exact sciences
+- Interactive story and RPGs are my favorite type of games
 - Love entertainment that involves themes like suspense, science fiction and period
 - Enhancing proficiency in new languages and technologies to secure an entry-level position as a back-end developer
 
