@@ -34,5 +34,4 @@
 
 ![gabriellydasi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellydasi&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
-Follow me on: <a href="https://judge.beecrowd.com/pt/profile/996517" target = "_blank">Beecrowd</a> 🐝
  
