@@ -1,19 +1,24 @@
 <h1 align="center">Hello, there! <img src="https://media.giphy.com/media/tz5QcabrftEFa/giphy.gif" width="60"> </h1>
  
 ## A bit about me 🌼
-* Estudante de Sistemas de Informação na Universidade de Pernambuco (UPE), com foco em **Desenvolvimento Backend**
-* Iniciei meus estudos em programação no final de 2023 por conta própria e nisso, fiz meu primeiro `Hello World` em C 
-* Imersa em duas jornadas de aprendizado através dos bootcamps:
-  * **Oracle Next Education**, que me proporciona conhecimentos sólidos em Desenvolvimento Backend com Java e Spring Boot
-  * **+praTi: Formação FullStack**, onde exploro tanto o Desenvolvimento Frontend quanto o Backend, com ênfase em JavaScript, React, Java, SpringBoot e SQL
-* Já desenvolvi projetos nas tecnologias de Frontend, incluindo HTML, CSS e JavaScript.
-* Estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos, contribuir com equipes e evoluir como desenvolvedora!
+* Information Systems student at the University of Pernambuco (UPE), focusing on **Backend Development**
+* Started my studies in programming at the end of 2023 on my own and in that, I made my first `Hello World` in C 💗
+* Immersed in two learning journeys through bootcamps:
+  * **Oracle Next Education**, which provides me with solid knowledge in Backend Development with Java and Spring Boot
+  * **+praTi: FullStack Training**, where I explore both Frontend and Backend Development, with an emphasis on JavaScript, React, Java, Spring Boot and SQL
+* I have developed projects in Frontend technologies, including HTML, CSS and JavaScript
+* I'm always looking for new challenges and opportunities to apply my knowledge, contribute to teams and evolve as a developer!
 
 <h2 align="left">Languages - Frameworks - Tools</h2>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=vscode,git,html,css" />
   <img src="https://skillicons.dev/icons?i=java,javascript,c" /><br>
 </div>
+
+## Languages
+* Portuguese: Native
+* English: Intermediate Level (B1)
+* French: Beginner Level (A1)
 
 <h2 align="left">Statistics</h2>
 <br>
