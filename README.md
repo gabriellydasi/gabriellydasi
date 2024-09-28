@@ -21,6 +21,13 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=5cc7e7&color=1b1b1b">
 </div>
 
+<h2 align="left">Projects</h2>
+<div align="left">
+  <a href="git@github.com:gabriellydasi/text-decoder"><img width=auto height=150 src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gabriellydasi&repo=text-decoder&theme=react&color=1b1b1b&title_color=5cc7e7&icon_color=5cc7e7&show_icons=true" alt="github-readme-streak-stats"></a>
+  <a href="git@github.com:gabriellydasi/programmer-calculator"><img width=auto height=150 src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gabriellydasi&repo=programmer-calculator&theme=react&color=1b1b1b&title_color=5cc7e7&icon_color=5cc7e7&show_icons=true" alt="github-readme-streak-stats"></a>
+</div>
+ 
+ 
 <h2 align="left">Statistics</h2>
 <div align=left>
   <img width=auto height=150 src="https://github-readme-stats.vercel.app/api?username=gabriellydasi&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
