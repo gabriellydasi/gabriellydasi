@@ -11,7 +11,7 @@
 
 <h2 align="left">Languages - Frameworks - Tools</h2>
 <div align="left">
-  <img src="	https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=5cc7e7&color=1b1b1b">
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=5cc7e7&color=1b1b1b">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=5cc7e7&color=1b1b1b">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=5cc7e7&color=1b1b1b">
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=5cc7e7&color=1b1b1b">
