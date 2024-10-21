@@ -1,7 +1,7 @@
 <h1 align="center">Hello, there! <img src="https://media.giphy.com/media/tz5QcabrftEFa/giphy.gif" width="60"> </h1>
  
 ## A bit about me 🌼 
-* Information Systems student at the University of Pernambuco (UPE), focusing on **Backend Development**
+* Information Systems student, focusing on **Backend Development**
 * Started my studies in programming at the end of 2023 on my own and in that, I made my first `Hello World` in C 💙
 * Immersed in two learning journeys through bootcamps:
   * **Oracle Next Education**, which provides me with solid knowledge in Backend Development with Java and Spring Boot
